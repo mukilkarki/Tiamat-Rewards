@@ -2,7 +2,17 @@
 
 Tiamat Rewards is a simple web application that demonstrates a basic login system, user profile page, and profile editing functionality. This project uses Bootstrap for responsive design and local storage to simulate user data management. 
 
-## Project Structure Tiamat Rewards/ ├── index.html ├── login.html ├── profile.html ├── edit-profile.html ├── css/ │   └── styles.css ├── js/ │   ├── init.js │   └── scripts.js └── README.md## Features
+## Project Structure Tiamat Rewards/ 
+├── index.html 
+├── login.html 
+├── profile.html 
+├── edit-profile.html 
+├── css/ 
+│   └── styles.css 
+├── js/ 
+│   ├── init.js 
+│   └── scripts.js 
+└── README.md## Features
 
 - **Login System:** Users can log in with their username and password.
 - **Profile Page:** Users can view their profile information.
